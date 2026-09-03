@@ -16,7 +16,7 @@
   <!-- Connect Badges -->
   <p align="center">
     <a href="[https://linkedin.com](https://www.linkedin.com/in/euticus-kamau)" target="_blank">
-      <img src="https://shields.io/badge/any_text-you_like-blue" alt="LinkedIn" />
+      <img src="https://shields.io/badge/LinkedIn_blue" alt="LinkedIn" />
     </a>
     <a href="mailto:your.email@example.com">
       <img src="https://shields.io" alt="Email" />
