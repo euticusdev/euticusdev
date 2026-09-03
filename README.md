@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1> there, I'm <span style="color:#2c3e50;">Euticus Kamau</span></h1>
+  <h1> 👋Hi there, I'm <span style="color:#2c3e50;">Euticus Kamau</span></h1>
 
   <h3>🎓 Holder of a <strong>Degree in Computer Science</strong></h3>
   
