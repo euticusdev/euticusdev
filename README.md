@@ -15,11 +15,11 @@
 
   <!-- Connect Badges -->
   <p align="center">
-    <a href="[https://linkedin.com](https://www.linkedin.com/in/euticus-kamau)" target="_blank">
-      <img src="https://shields.io/badge/LinkedIn_blue" alt="LinkedIn" />
+    <a href="www.linkedin.com/in/euticus-kamau-9377a3433" target="_blank">
+      <img src="https://shields.io/badge/LinkedIn-blue" alt="LinkedIn" />
     </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://shields.io" alt="Email" />
+    <a href="mailto:euticus.dev@gmail.com.com">
+      <img src="https://shields.io/badge/Email-red" alt="Email" />
     </a>
   </p>
 </div>
