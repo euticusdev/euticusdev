@@ -7,7 +7,7 @@
   <h4>🏫 <em>Murang'a University of Technology (MUT)</em></h4>
   
   <p style="font-size:18px; color:#16a085;">
-    💻 Front-End Web Developer | Passionate about crafting clean, responsive, and user-friendly interfaces
+    💻 Software and Artifial Intelligence Developer | Passionate about crafting clean, responsive, and user-friendly interfaces
   </p>
 
 </div>
