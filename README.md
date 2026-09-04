@@ -6,7 +6,7 @@
   
   <h1>🚀 Welcome to My Digital Workspace!</h1>
   
-  <h3>🎓 Computer Science Graduate | Murang'a University of Technology (MUT)</h3>
+  <h3>🎓 Computer Science Student | Murang'a University of Technology (MUT)</h3>
   
   <p align="center">
     <strong>Software & Artificial Intelligence Developer</strong><br>
