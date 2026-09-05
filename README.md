@@ -15,7 +15,7 @@
 
   <!-- Connect Badges -->
   <p align="center">
-    <a href="www.linkedin.com/in/euticus-kamau-9377a3433" target="_blank">
+    <a href="https://www.linkedin.com/in/euticus-kamau-9377a3433" target="_blank">
       <img src="https://shields.io/badge/LinkedIn-blue" alt="LinkedIn" />
     </a>
     <a href="mailto:euticus.dev@gmail.com.com">
