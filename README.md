@@ -116,13 +116,6 @@ I'm expanding my software engineering journey by learning how to identify defect
 
 ## 🚀 Featured Projects
 
-### 🛡️ Campus Safe
-
-*A web application concept for reporting found items and connecting people with relevant institutions.*
-
-- **Goal:** Make it easier to report found items to appropriate organizations, including schools, police, and medical facilities.
-- **Technologies:** HTML, CSS, JavaScript.
-- **Development focus:** PHP backend, database integration, and report management.
 
 ### 📡 CaribbeanWifi
 
